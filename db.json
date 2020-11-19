@@ -2,7 +2,7 @@
   "products": [
     { "id": 1, "name": "Azul Natural" },
     { "id": 2, "name": "Gris Perla Haya" },
-    { "id": 3, "name": "Natural Haya" }
+    { "id": 3, "name": "Natural Haya" },
 	{ "id": 4, "name": "Rallado Oscuro" }
   ],
   "images": [
