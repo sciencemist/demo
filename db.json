@@ -3,6 +3,8 @@
     { 
       "id": 1, 
       "name": "Azul Natural" ,
+      "price": 34,
+      "description": "Parquet azul de madera de roble",
       "image": 
       [{
        "title": "dignissimos repudiandae facere voluptas ipsa quam autem rerum",
@@ -13,6 +15,8 @@
     { 
       "id": 2, 
       "name": "Gris Perla Haya",
+      "price": 34,
+      "description": "Parquet gris perla de madera de haya",
       "image": 
       [{
           "title": "ducimus quia pariatur eos nihil eaque",
@@ -23,6 +27,8 @@
     { 
       "id": 3, 
       "name": "Natural Haya",
+      "price": 34,
+      "description": "Parquet madera de haya",
       "image": 
       [{
         "title": "quia eveniet repellat ea",
@@ -33,6 +39,8 @@
 	  { 
       "id": 4, 
       "name": "Rallado Oscuro",
+      "price": 34,
+      "description": "Parquet sintético rallado",
       "image": 
       [{
         "title": "quia eveniet repellat ea",
