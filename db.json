@@ -1,38 +1,44 @@
 {
   "product": [
-    { "id": 1, "name": "Azul Natural" },
-    { "id": 2, "name": "Gris Perla Haya" },
-    { "id": 3, "name": "Natural Haya" },
-	  { "id": 4, "name": "Rallado Oscuro" }
-  ],
-  "image": [
-     {
-    "productId": 1,
-    "id": 1,
-    "title": "dignissimos repudiandae facere voluptas ipsa quam autem rerum",
-    "url": "https://via.placeholder.com/600/b2564a",
-    "thumbnailUrl": "https://via.placeholder.com/150/b2564a"
-  },
-  {
-    "productId": 2,
-    "id": 2,
-    "title": "ducimus quia pariatur eos nihil eaque",
-    "url": "https://via.placeholder.com/600/113ca9",
-    "thumbnailUrl": "https://via.placeholder.com/150/113ca9"
-  },
-  {
-    "productId": 3,
-    "id": 3,
-    "title": "quia eveniet repellat ea",
-    "url": "https://via.placeholder.com/600/5e6bb6",
-    "thumbnailUrl": "https://via.placeholder.com/150/5e6bb6"
-  },
-  {
-    "productId": 4,
-    "id": 4,
-    "title": "ipsa aliquid voluptatem aut soluta maiores sed dolorum",
-    "url": "https://via.placeholder.com/600/57400f",
-    "thumbnailUrl": "https://via.placeholder.com/150/57400f"
-  }
+    { 
+      "id": 1, 
+      "name": "Azul Natural" ,
+      "image": 
+      [{
+       "title": "dignissimos repudiandae facere voluptas ipsa quam autem rerum",
+       "url": "https://via.placeholder.com/600/b2564a",
+       "thumbnailUrl": "https://via.placeholder.com/150/b2564a"
+     }]
+    },
+    { 
+      "id": 2, 
+      "name": "Gris Perla Haya",
+      "image": 
+      [{
+          "title": "ducimus quia pariatur eos nihil eaque",
+          "url": "https://via.placeholder.com/600/113ca9",
+          "thumbnailUrl": "https://via.placeholder.com/150/113ca9"
+        }]
+    },
+    { 
+      "id": 3, 
+      "name": "Natural Haya",
+      "image": 
+      [{
+        "title": "quia eveniet repellat ea",
+        "url": "https://via.placeholder.com/600/5e6bb6",
+        "thumbnailUrl": "https://via.placeholder.com/150/5e6bb6"
+        }]
+    },
+	  { 
+      "id": 4, 
+      "name": "Rallado Oscuro",
+      "image": 
+      [{
+        "title": "quia eveniet repellat ea",
+        "url": "https://via.placeholder.com/600/5e6bb6",
+        "thumbnailUrl": "https://via.placeholder.com/150/5e6bb6"
+        }]
+    }
   ]
 }
